@@ -1,0 +1,3 @@
+ripe
+half-ripe
+raw
